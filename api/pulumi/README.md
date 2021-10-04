@@ -16,3 +16,5 @@ In the [index.ts](./index.ts) file, you'll find that we only deploy the `prod` c
 All other environments will be deployed using the `dev` configuration. 
 
 > You're welcome to customize the configuration as much as want. If you have different requirements for your environments, go ahead and modify the conditions and how you import configurations.
+
+<!--- Adding this line to check first CI/CD deployment on dev  -->
